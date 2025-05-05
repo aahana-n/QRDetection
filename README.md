@@ -16,7 +16,7 @@ This project detects QR codes and barcodes in real-time using OpenCV and saves t
 #How to run
 1. Clone the repository or download the project folder.
 2. Open a terminal in the project directory.
-3. Run the main script: 
+3. Run the main script- QRid.py
 4. Show a QR code or barcode to the webcam.
 5. If it's a new scan, the data will be saved in mydata.txt and a success message will be displayed.
 
